@@ -1,4 +1,4 @@
-# Text to JSON Application
+# Text to JSON Search Application
 
 This application is a simple text-to-JSON converter. It reads text files from a specified directory and converts them into JSON format. The converted JSON data is then saved into a file named `output.json`.
 
