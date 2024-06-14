@@ -23,7 +23,8 @@ npm install
 ## Usage
 
   1. Create the `output.json` file by following the instructions inside the text2json.js file.
-		a. Example data to be read from text or markdown files in your given directory:
+		
+        a. Example data to be read from text or markdown files in your given directory:
 
 ```
 at the beach during sunset, waves and palm trees in color of green, blue
