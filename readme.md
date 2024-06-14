@@ -33,6 +33,18 @@ pencil painting of a black Jeep soft top off with large wheels at the Grand Cany
 
 
 2. Ensure that a `output.json` file does exist.
+        
+        a. Example of data in the `output.json` file:
+        <pre>
+              {
+                "id": "e4ec412f-8223-4382-a76d-278d7efdeb4b",
+                "name": "3d paintings",
+                "prompt": "at the beach during sunset, waves and palm trees in color of green, blue"
+              }
+        </pre>
+       
+        b. The `id` is just a genric GUID for references. The `name` is the file name 
+            this prompt came from. `prompt` is the actual text. 
 
 3. use `npm start` to run the web application.
 
